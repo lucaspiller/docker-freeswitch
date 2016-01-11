@@ -1,3 +1,5 @@
+**As you can probably tell this has been abandoned (I switched to Asterisk, ssh!). I'll leave the repo here for prosperity, but I'd recommend you take a look at one of the forks or something else if you want to run Freeswitch on Docker.**
+
 # Freeswitch for Docker
 
 Docker image for Freeswitch telephony platform. Based upon Freeswitch 1.2.17.
